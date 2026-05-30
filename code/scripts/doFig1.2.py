@@ -64,7 +64,7 @@ def main(argv):
     subplot_titles = [""] * len(t2s)
 
     for i in range(len(t2s)):
-        subplot_titles[i] = fr"t_2={t2s[i]}"
+        subplot_titles[i] = fr"$t_2={t2s[i]}$"
 
     fig = plotly.subplots.make_subplots(rows=2, cols=len(t2s),
                                         subplot_titles=subplot_titles)
