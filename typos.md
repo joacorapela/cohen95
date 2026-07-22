@@ -17,7 +17,7 @@
     > Similarly, we argued that the average time for a given frequency should be
     > the derivative of the spectral phase.
 
-However, these results are given in Chapter 1, Eqs. 1.91 and 1.114.
+    However, these results are given in Chapter 1, Eqs. 1.91 and 1.114.
 
 - Eq. 7.23: It should read: $\int s(\tau)h(\tau-t)s^*{\tau)h^*(\tau-t)d\tau$
 
