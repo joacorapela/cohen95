@@ -19,5 +19,5 @@
 
     However, these results are given in Chapter 1, Eqs. 1.91 and 1.114.
 
-- Eq. 7.23: It should read: $\int s(\tau)h(\tau-t)s(\tau)h(\tau-t)d\tau$
+- Eq. 7.23: It should read: $\int s(\tau)h(\tau-t)s^\ast(\tau)h^\ast(\tau-t)d\tau$
 
