@@ -21,3 +21,7 @@
 
 - Eq. 7.23: It should read: $\int s(\tau)h(\tau-t)s^\ast(\tau)h^\ast(\tau-t)d\tau$
 
+- p. 100 last paragraph should read $\varphi '\rightarrow\varphi '(\tau) + \varphi_h '(\tau-t)$
+
+- Eq. 7.48: the third line of this equation should contain $P^2(t)$ instead of $P_1^2(t)$.
+
