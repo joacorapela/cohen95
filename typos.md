@@ -25,4 +25,4 @@
 
 - Eq. 7.48: the third line of this equation should contain $P^2(t)$ instead of $P_1^2(t)$.
 
-- Eq. 7.56: missing a minus sign at the front. It should be $\langle t\rangle_\omega=\frac{1}{P(\omega)}\int B^2(w)B_h^2(\omega-w)\left[\psi'(w)-\psi_h'(w-\omega)\right]dw$.
+- Eq. 7.56: missing a minus sign at the front. It should be $\langle t\rangle_\omega=\frac{-1}{P(\omega)}\int B^2(w)B_h^2(\omega-w)\left[\psi'(w)-\psi_h'(w-\omega)\right]dw$.
