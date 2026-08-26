@@ -26,3 +26,6 @@
 - Eq. 7.48: the third line of this equation should contain $P^2(t)$ instead of $P_1^2(t)$.
 
 - Eq. 7.56: missing a minus sign at the front. It should read $\langle t\rangle_\omega=\frac{-1}{P(\omega)}\int B^2(w)B_h^2(\omega-w)\left[\psi'(w)-\psi_h'(w-\omega)\right]dw$.
+
+- Eq. 7.69: missing two 2's in the last term. It should read $\frac{2}{\sqrt{\pi}}\exp\left(-\frac{(\omega-\omega_0)^2}{2a}\exp\left(-\frac{a}{2}(t-t_0)^2\right)\right)cos((t-t_0)\omega-\omega_0t)$.
+
