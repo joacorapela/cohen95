@@ -29,3 +29,16 @@
 
 - Eq. 7.69: missing two 2's in the last term. It should read $\frac{2}{\sqrt{\pi}}\exp\left(-\frac{(\omega-\omega_0)^2}{2a}\exp\left(-\frac{a}{2}(t-t_0)^2\right)\right)cos((t-t_0)\omega-\omega_0t)$.
 
+- p. 105 I guess that the paragraph that reads
+
+> The concentration of energy for a given time is along the estimated instantaneous fre-
+> quency, and for a given frequency it is along the estimated time delay.
+
+should read
+
+> The concentration of energy for a given time is along the estimated instantaneous fre-
+> quency, and for a given frequency it is along the estimated group delay.
+
+That is, we should replace "time delay" by "group delay."
+
+- p. 105, last line. It should be $a\rightarrow 0$ instead of $a\rightarrow \infty$.
