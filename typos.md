@@ -31,12 +31,12 @@
 
 - p. 105 I guess that the paragraph that reads
 
-> The concentration of energy for a given time is along the estimated instantaneous fre-
+> The concentration of energy for a given time is along the estimated instantaneous fre-\
 > quency, and for a given frequency it is along the estimated time delay.
 
 should read
 
-> The concentration of energy for a given time is along the estimated instantaneous fre-
+> The concentration of energy for a given time is along the estimated instantaneous fre-\
 > quency, and for a given frequency it is along the estimated group delay.
 
 That is, we should replace "time delay" by "group delay."
